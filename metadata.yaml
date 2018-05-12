@@ -1,0 +1,32 @@
+_repo: Fifty-Contemporary-One-Act-Plays_36984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Loving, Pierre
+    birthdate: 1893
+    gutenberg_agent_id: '38576'
+    url: http://www.gutenberg.org/2009/agents/38576
+  - agent_name: Shay, Frank
+    birthdate: 1888
+    deathdate: 1954
+    gutenberg_agent_id: '35462'
+    url: http://www.gutenberg.org/2009/agents/35462
+description: ''
+gutenberg_issued: '2011-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36984'
+  lccn: '21000611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'One-act plays'
+- !lcsh 'Drama -- Collections'
+title: Fifty Contemporary One-Act Plays
+url: http://www.gutenberg.org/ebooks/36984
