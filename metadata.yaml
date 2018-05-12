@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '35462'
     url: http://www.gutenberg.org/2009/agents/35462
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36984#Fifty-Contemporary-One-Act-Plays
 gutenberg_issued: '2011-08-06'
 gutenberg_type: Text
 identifiers:
